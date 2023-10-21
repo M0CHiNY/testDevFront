@@ -3,12 +3,28 @@
 */
 
 @font-face {
-  font-family: 'DINP-R';
-  src: url("../fonts/DINPro-Regular.eot?") format("eot"),
-  url("../fonts/DINPro-Regular.woff") format("woff"),
-  url("../fonts/DINPro-Regular.ttf") format("truetype");
-  font-weight: 400;
+  font-family: 'NunitoSans_7pt_Condensed-Bold';
+  src: url("../fonts/NunitoSans_7pt_Condensed-Bold.woff") format("woff"),
+  url("../fonts/NunitoSans_7pt_Condensed-Bold.woff2") format("woff2");
+  font-weight: 700;
   font-style: normal;
   font-display: swap;
 }
 
+@font-face {
+  font-family: 'NunitoSans_7pt_Condensed-ExtraBold';
+  src: url("../fonts/NunitoSans_7pt_Condensed-ExtraBold.woff") format("woff"),
+  url("../fonts/NunitoSans_7pt_Condensed-ExtraBold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'NunitoSans_7pt_Condensed-Regular';
+  src: url("../fonts/NunitoSans_7pt_Condensed-Regular.woff") format("woff"),
+  url("../fonts/NunitoSans_7pt_Condensed-Regular.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
