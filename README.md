@@ -1,6 +1,6 @@
 # Webpack 5 Boilerplate Template for test task
 
-The main layout files are <b>index.html</b> and _about-company.scss
+The main layout files are <b>index.html</b> and <b>_about-company.scss</b>
 
 ## Requirements
 
